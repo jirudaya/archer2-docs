@@ -205,7 +205,7 @@ For more detailed information on managing environments, refer to the
 While packages can be loaded directly via `spack load`, generating standalone
 module files allows you to manage your software using standard system `module`
 commands. You can generate these files for any installed package, though *using
-an environment is the recommended way* to keep your software stacks organized
+an environment is the recommended way* to keep your software stacks organised
 and reproducible.
 
 To build or update your module tree, run the refresh command. If you are using
